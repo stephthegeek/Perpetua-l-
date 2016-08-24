@@ -1,0 +1,147 @@
+body.perpetual {
+  background-color: rgba(70,84,105,1);
+  color: rgba(255,255,255,0.65);
+  font-family: 'Palanquin', sans-serif;
+  font-size: 20px;
+  font-weight: 200;
+}
+
+body.perpetual a {
+  color: rgba(255,255,255,0.5);
+}
+
+body.perpetual h1,
+body.perpetual h3,
+body.perpetual h5 {
+  color: rgba(0,0,0,.5);
+  font-family: 'Palanquin', sans-serif;
+  font-weight: 700;
+}
+
+body.perpetual h1 {
+  font-size: 54px;
+}
+
+body.perpetual h2,
+body.perpetual h4 {
+  color: rgba(255,255,255,1);
+  font-family: 'Palanquin', sans-serif;
+  font-size: 150%;
+  font-weight: 400;
+}
+
+body.perpetual p.lead {
+  font-size: 22px;
+  line-height: 150%;
+  padding-bottom: 10px;
+}
+
+body.perpetual .jumbotron p.giant {
+  color: rgba(255,255,255,0.2);
+  font-family: 'Palanquin', sans-serif;
+  font-size: 54px;
+  font-weight: 700;
+  margin: 0;
+  padding: 0;
+}
+
+body.perpetual .credit {
+  color: rgba(255,255,255,.5);
+  margin-top: -20px;
+}
+
+body.perpetual .pic-title-wrapper {
+  height: 370px;
+}
+
+body.perpetual h3.pic-title {
+  font-family: monospace;
+}
+
+body.perpetual .description {
+  color: rgba(0,0,0,.5);
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 140%;
+  margin-top: 55px;
+}
+
+body.perpetual .caption {
+  font-size: 13px;
+  margin-top: 10px;
+}
+
+body.perpetual .footer {
+  text-align: center;
+}
+
+body.perpetual hr {
+  border-color: rgba(0,0,0,0.1);
+}
+
+body.perpetual img.main-image {
+  -webkit-box-shadow: 1px 1px 3px 0px rgba(0,0,0,0.5);
+  -moz-box-shadow: 1px 1px 3px 0px rgba(0,0,0,0.5);
+  box-shadow: 1px 1px 3px 0px rgba(0,0,0,0.5);
+  width: 320px;
+}
+
+body.perpetual .thumbs {
+
+}
+
+body.perpetual img.thumb {
+  border: 1px solid rgba(0,0,0,.5);
+  cursor: pointer;
+  margin-right: 10px;
+  width: 40px;
+}
+
+/*body.perpetual .thumbs {
+  padding-top: 20px;
+}*/
+
+/*body.perpetual .main-image {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}*/
+
+body.perpetual .main-image-wrapper {
+
+}
+
+body.perpetual .old-image img.main-image {
+
+}
+
+body.perpetual .masthead h1 a {
+  color: rgba(0,0,0,.5);
+  text-decoration: none;
+}
+
+body.perpetual .jumbotron img {
+  float: right;
+  margin-left: 15px;
+  -webkit-box-shadow: 1px 1px 3px 0px rgba(0,0,0,0.5);
+  -moz-box-shadow: 1px 1px 3px 0px rgba(0,0,0,0.5);
+  box-shadow: 1px 1px 3px 0px rgba(0,0,0,0.5);
+}
+
+body.perpetual .cam-width {
+  max-width: 320px;
+}
+
+body.perpetual .jumbotron p {
+  line-height: 150%;
+}
+
+p.footer-links {
+  font-size: 110%;
+  font-weight: bold;
+}
+
+.footer {
+  clear: both;
+  margin-top: 20px;
+}
