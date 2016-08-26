@@ -37,7 +37,7 @@ jQuery(function(){
         $('.caption p').text('12/13/14');
     });
     $('.img3').click(function() {
-        $('.description p').text('Technology conferences and mobile devices go hand-in-hand.');
+        $('.description p').text('Technology conferences and mobile devices go hand-in-hand — recording the speakers, the content, the individual experience.');
         $('.pic-title').text('conf.jpg');
         $('.caption p').text('2/5/14 "#bitcoin panel at moneyandtech.com launch party"');
     });
@@ -47,22 +47,22 @@ jQuery(function(){
         $('.caption p').text('7/22/13 "My new room"');
     });
     $('.img5').click(function() {
-        $('.description p').text('Many of my early mobile images involve travel. This pair is an example of broadcasting a status update visually.');
+        $('.description p').text('Many early (and current) mobile images involve travel, and this serves as an example of broadcasting a visual status update to a social network.');
         $('.pic-title').text('sign.jpg');
         $('.caption p').text('10/21/13 "Ew. Glad mine is on time. Charlotte then Asheville!"');
     });
     $('.img6').click(function() {
-        $('.description p').text('These images share both subject matter and composition. Note the use of selective focus in the Instagram image in order to direct the viewer\'s attention, highlighting one of many mobile image effects now prevalent.');
+        $('.description p').text('These images share both subject matter and composition. The selective focus in the Instagram image directs the viewer\'s attention, an effect prevalent in modern mobile image apps.');
         $('.pic-title').text('receipt.jpg');
         $('.caption p').text('12/13/14 "#poutine #canada"');
     });
     $('.img7').click(function() {
-        $('.description p').text('Strappy sandals while waiting for transit.');
+        $('.description p').text('Strappy sandals while waiting for transit. Another moment of killing time, and another moment to show off footwear.');
         $('.pic-title').text('strappyshoes.jpg');
         $('.caption p').text('7/10/13 "~ When I\'m feeling blue, all I have to do, is put on sexy shoes, then I\'m not so blue ~"');
     });
     $('.img8').click(function() {
-        $('.description p').text('There were very few food and drink shots in the earlier set of images, perhaps due to social norms of food photography at the time.');
+        $('.description p').text('There were very few food and drink shots in the earlier set of images, perhaps due to social norms of mealtime photography at the time.');
         $('.pic-title').text('takeout.jpg');
         $('.caption p').text('4/30/14 "This salad must\'ve weighed two pounds. Yay leftovers!"');
     });
@@ -77,12 +77,12 @@ jQuery(function(){
         $('.caption p').text('7/22/13 "Oh the madness #ikea"');
     });
     $('.img11').click(function() {
-        $('.description p').text('The pain of losing my piano, twice, for over a year at a time.');
+        $('.description p').text('The pain of losing my piano, twice, for years at a time.');
         $('.pic-title').text('piano.jpg');
         $('.caption p').text('7/20/13 "My baby in its new home for now"');
     });
     $('.img12').click(function() {
-        $('.description p').text('Travel is the perfect environment for mobile photos. Unexpected leg room is worth posting about.');
+        $('.description p').text('Unexpected leg room is always worth posting about.');
         $('.pic-title').text('planelegs.jpg');
         $('.caption p').text('10/21/13 "Yeah, baby!"');
     });
